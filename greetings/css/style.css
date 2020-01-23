@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.salutations {
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px solid black;
+    background-color: skyblue;
+    text-align: center;
+}
+
